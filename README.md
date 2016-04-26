@@ -5,4 +5,7 @@ A basic [Slack slash command](https://api.slack.com/slash-commands) in node.js f
 + `PORT` - the port to start the http server on
 + `SLACK_VERIFY_TOKEN` - the verify token for your Slack slash commands
 
-Exposes a `/beepboop` route that is intended to power a Slack slash command.
+## Slash Commands
+
++ `/beepboop` route that is intended to power a `/beepboop` Slack slash command.
++ `/boopbeep` route that is intended to power a `/boopbeep` Slack slash command.
