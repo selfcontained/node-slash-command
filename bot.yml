@@ -1,4 +1,5 @@
 name: Sample Slack Slash Command
+author: Beep Boop
 description: Node Slack slash command example
 avatar: images/avatar.jpg
 slackscopes:
