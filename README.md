@@ -9,4 +9,3 @@ A basic [Slack slash command](https://api.slack.com/slash-commands) in node.js f
 
 + `/beepboop` route that is intended to power a `/beepboop` Slack slash command.
 + `/boopbeep` route that is intended to power a `/boopbeep` Slack slash command.
-
